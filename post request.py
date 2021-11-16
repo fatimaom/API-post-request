@@ -11,8 +11,8 @@ data_Bat= { "type":"Single Battery",
 "org_id":"rmFT75nxhWsHSkTpo"
 ,"bem_id":"PyTBT56vqaPt22mZ2",
 "email":"fatima.om11@gmail.com ",
-"Start":1635778688185,
-"End":1636383488185
+"start":1635778688185,
+"end":1636383488185
 } 
   
 # sending post request and saving response as response object
