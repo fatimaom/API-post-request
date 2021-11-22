@@ -2,7 +2,7 @@
 import requests
   
 # defining the api-endpoint 
-API_ENDPOINT = "http://ec2-34-247-37-135.eu-west-1.compute.amazonaws.com:5000/handle"
+API_ENDPOINT ="http://localhost:5000/handle"
   
 
   
