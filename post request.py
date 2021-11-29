@@ -7,11 +7,7 @@ API_ENDPOINT ="http://localhost:5000/handle"
 
   
 # data to be sent to api
-data_Bat= { "type":"Single Battery",
-"org_id":"rmFT75nxhWsHSkTpo"
-,"bem_id":"PyTBT56vqaPt22mZ2",
-"email":"fatima.om11@gmail.com ",
-"start":1635778688185,
+data_Bat= { "start":1635778688185,
 "end":1636383488185
 } 
   
